@@ -2,4 +2,5 @@
 - [02 Variable](02.variable.md)
 - [02 Lambda](02.lambda.md)
 - [03 Inheritance](03.inheritance.md)
-- [03 Interface](03.interface.md)
+- [03 Functional Interface](04.functional-interface.md)
+
